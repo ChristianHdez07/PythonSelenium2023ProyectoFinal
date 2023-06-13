@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4203f34d-4d46-404a-8427-8eae80829e1b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonSelenium2023ProyectoFinal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locators/AccountPage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locators/HomePage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locators/LoginPage.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/config_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/config_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/framework/default_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/chrome_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/firefox_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/webdriver_factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page_objects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page_objects/account_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page_objects/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page_objects/checkout_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page_objects/home_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page_objects/login_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page_objects/product_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page_objects/register_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page_objects/search_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web_elements/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/web_elements/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_checkout_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_home_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_login_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_product_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_register_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_search_page.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2R84HKrtt6GSp6oYojrfQdotlmk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ChRii/PycharmProjects/PythonSelenium2023ProyectoFinal",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python tests.pytest for test_search_page.test_register">
+    <configuration name="pytest for test_checkout_page.test_checkout" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PythonSelenium2023ProyectoFinal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_checkout_page.test_checkout&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_home_page.test_search" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PythonSelenium2023ProyectoFinal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_home_page.test_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_product_page.test_select_iphone" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PythonSelenium2023ProyectoFinal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_product_page.test_select_iphone&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_register_page.test_register" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PythonSelenium2023ProyectoFinal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_register_page.test_register&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_search_page.test_register" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PythonSelenium2023ProyectoFinal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_search_page.test_register&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_search_page.test_register" />
+        <item itemvalue="Python tests.pytest for test_register_page.test_register" />
+        <item itemvalue="Python tests.pytest for test_product_page.test_select_iphone" />
+        <item itemvalue="Python tests.pytest for test_checkout_page.test_checkout" />
+        <item itemvalue="Python tests.pytest for test_home_page.test_search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4203f34d-4d46-404a-8427-8eae80829e1b" name="Changes" comment="" />
+      <created>1686618285141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686618285141</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
